@@ -1,4 +1,3 @@
-`timescale 1ns/1ps
 
 // Combinational primitives and registers shared by the decoder.
 module viterbi_full_adder (

@@ -3,7 +3,6 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-`timescale 1ns/1ps
 `default_nettype none
 
 // Decodificador Viterbi de decisión dura, R=1/2, K=4, ocho estados y bloques

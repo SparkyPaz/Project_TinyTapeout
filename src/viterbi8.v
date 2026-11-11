@@ -1,4 +1,3 @@
-`timescale 1ns/1ps
 
 // Exactly eight binary inputs and eight binary outputs.
 // I[0]=R1 I[1]=R2 I[2]=CLK I[3]=RESET I[4]=ENABLE

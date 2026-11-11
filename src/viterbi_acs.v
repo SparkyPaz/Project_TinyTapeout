@@ -1,4 +1,3 @@
-`timescale 1ns/1ps
 
 // Add-compare-select for one destination state. Metrics are 5 bits (a valid
 // path distance in 8 stages is at most 16). Unreachable states start with a
